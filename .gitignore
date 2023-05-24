@@ -1,1 +1,6 @@
+kilo
+main
+*.exe
+*.out
 cmake-*
+build
